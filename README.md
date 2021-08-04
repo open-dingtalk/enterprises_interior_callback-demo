@@ -11,7 +11,7 @@ https://github.com/open-dingtalk/enterprises_interior_callback-demo.git
 * [配置事件订阅](https://developers.dingtalk.com/document/app/configure-event-subcription)
 * [HTTP回调概述](https://developers.dingtalk.com/document/app/callback-overview)
 * [测试回调URL事件](https://developers.dingtalk.com/document/app/test-callback-url-events-1)
-
+* [内网穿透](https://developers.dingtalk.com/document/resourcedownload/http-intranet-penetration?pnamespace=app)
 ### Guides
 * 创建企业内部应用
 * 配置事件订阅
